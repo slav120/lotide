@@ -1,0 +1,22 @@
+{
+  "name": "@slav1998/lotide",
+  "version": "1.0.0",
+  "description": "Ligthhouse Labs student project creating a copy of Lotide",
+  "main": "assertArrayEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slav120/lotide-.git"
+  },
+  "author": "Slav Lalev  <slalev57@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slav120/lotide-/issues"
+  },
+  "homepage": "https://github.com/slav120/lotide-#readme"
+}
